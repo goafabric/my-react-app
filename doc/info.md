@@ -12,3 +12,7 @@ https://reactjs.org/docs/getting-started.html#try-react
 
 https://reactjs.org/tutorial/tutorial.html
 
+#Angular
+sudo npm install -g @angular/cli
+npm update
+npm install -g typescript
