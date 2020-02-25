@@ -1,6 +1,7 @@
 #Installation
 install NodeJS 
 npm update
+npm install
 npx create-react-app my-app (already created here)
 
 #Run 
